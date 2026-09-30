@@ -1,0 +1,14 @@
+# Node.js dependencies (we’ll install fresh inside container)
+node_modules
+npm-debug.log
+
+# Git files
+.git
+.gitignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local configs
+.env
